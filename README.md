@@ -22,3 +22,4 @@ Files in this Repository:
 
 1. Sales Dashboard.pbix – Power BI project file.
 2. Screenshot of the report (https://github.com/salman397/Sales-Profit-Dashboard-Power-BI-/blob/main/Retail%20Sales%20Analysis.png)
+3. Sample Data files (.csv)
