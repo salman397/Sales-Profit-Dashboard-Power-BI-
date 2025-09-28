@@ -18,6 +18,5 @@ Key Insights & Features:
 
 Files in this Repository:
 
-Sales_Profit_Dashboard.pbix – Power BI project file.
-
-dashboard_screenshot.png – Preview image of the report.
+1. Sales Dashboard.pbix – Power BI project file.
+2. Screenshot of the report (https://github.com/salman397/Sales-Profit-Dashboard-Power-BI-/blob/main/Retail%20Sales%20Analysis.png)
