@@ -1,3 +1,5 @@
+# Interactive Sales–Profit Dashboard
+
 This interactive Power BI dashboard analyzes retail sales data to help business stakeholders understand revenue, profit trends, and customer behavior at a glance.
 It transforms raw transaction data into actionable insights for data-driven decisions on inventory, marketing, and customer targeting.
 
